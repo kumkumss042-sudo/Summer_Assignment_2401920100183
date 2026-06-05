@@ -1,0 +1,20 @@
+package Summer_Assignment_2401920100183.week1.Day_5;
+import java.util.*;
+class Solution {
+    public String longestCommonPrefix(String[] strs) {
+        Arrays.sort(strs);
+        String s1=strs[0];
+        String s2=strs[strs.length-1];
+        int i=0,j=0;
+        StringBuilder ans=new StringBuilder();
+        while(i<s1.length() && j<s2.length()){
+            if(s1.charAt(i)==s2.charAt(j)){
+                ans.append(s1.charAt(i));
+                i++;
+                j++;
+            }
+            else break;
+        }
+        return ans.toString();
+    }
+}
