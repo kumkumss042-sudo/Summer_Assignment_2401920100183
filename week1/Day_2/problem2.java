@@ -1,4 +1,4 @@
-package Summer_Assignment_2401920100183.week1.Day2;
+package week1.Day_2;
 import java.util.*;
 public class problem2 {
     public static int helper(int nums[]){
