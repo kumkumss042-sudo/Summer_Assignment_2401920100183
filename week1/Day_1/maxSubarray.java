@@ -1,4 +1,4 @@
-package Summer_Assignment_2401920100183.week1.Day_1;
+package week1.Day_1;
 import java.util.*;
 
 public class maxSubarray{
