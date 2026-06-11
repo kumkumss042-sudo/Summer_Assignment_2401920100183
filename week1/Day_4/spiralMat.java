@@ -1,4 +1,4 @@
-package Summer_Assignment_2401920100183.week1.Day_4;
+package week1.Day_4;
 import java.util.*;
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {

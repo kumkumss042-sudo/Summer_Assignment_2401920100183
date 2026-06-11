@@ -1,4 +1,4 @@
-package Summer_Assignment_2401920100183.week1.Day_5;
+package week1.Day_5;
 import java.util.*;
 class Solution {
     public String longestCommonPrefix(String[] strs) {

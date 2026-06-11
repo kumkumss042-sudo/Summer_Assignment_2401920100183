@@ -1,4 +1,4 @@
-package Summer_Assignment_2401920100183.week1.Day_5;
+package week1.Day_5;
 class Solution {
     public void swap(char[]s,int i,int j){
         char temp=s[i];

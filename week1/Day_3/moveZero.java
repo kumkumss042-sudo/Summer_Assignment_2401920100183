@@ -1,4 +1,4 @@
-package Summer_Assignment_2401920100183.week1.Day_3;
+package week1.Day_3;
 class Solution {
     public void moveZeroes(int[] nums) {
         int i=0,j=0;
