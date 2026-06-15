@@ -1,6 +1,6 @@
 package week3.Day_1;
 
-public class Solution {
+public class linkedlistCycle {
     public boolean hasCycle(ListNode head) {
         if(head==null || head.next==null) return false;
         ListNode slow=head;
